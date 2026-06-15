@@ -11,16 +11,6 @@ I build AI systems for security and developer tooling. Currently interning at **
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it does |
-|---|---|
-| **[Clarmy](https://github.com/elishab60/Clarmy)** | Unified control center for running multiple AI coding agents (Claude / Codex / Gemini) in parallel: live status grid, honest cost tracking, Fleet MCP server. |
-| **[tokentrack](https://github.com/elishab60/tokentrack)** | Track AI coding-agent token consumption across Claude Code and OpenAI Codex. |
-| **[astra_ai_sdk](https://github.com/elishab60/astra_ai_sdk)** | Next.js console to manage local Ollama models: streaming chat, model installer, live system metrics, sandboxed code execution. |
-
----
-
 ### 🧰 Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
