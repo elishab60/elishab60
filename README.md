@@ -7,6 +7,7 @@ I build AI systems for security and developer tooling. Currently interning at **
 - 🔭 Building **[Clarmy](https://github.com/elishab60/Clarmy)**: one dashboard to run and observe many AI coding agents (Claude, Codex, Gemini) at once
 - 🧠 Focus: LLMs (fine-tuning, guardrails, agents, MCP), cybersecurity, full-stack
 - 🛠️ Stack: Python, PyTorch, Hugging Face, TypeScript, React/Next.js, Node.js, Docker
+- 📄 [My CV (EN)](./Elisha_Bajemon_CV_EN.pdf)
 - 📫 [LinkedIn](https://www.linkedin.com/in/elisha-bajemon/) · elishabajemon60@icloud.com
 
 ---
